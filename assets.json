@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D crystal cluster of three fused glowing mosaic nodes in cyan, gold and rose, centred, deep indigo radial gradient background, crisp, no text"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, deep indigo cosmic gradient with faint violet nebula haze, very dark, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, abstract aurora light mosaic, violet and cyan glowing fragments on deep indigo, vibrant, 3D render, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, soft blurred indigo aurora field, very low contrast for UI overlay, no text, no UI elements"
+    },
+    {
+      "name": "bg_result",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game result background, radiant mosaic burst of cyan and gold light shards on deep indigo, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "sprite_node_cyan",
+      "type": "sprite",
+      "prompt": "One single glossy 3D rounded light node, cyan colour, glowing core, centred icon, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_node_gold",
+      "type": "sprite",
+      "prompt": "One single glossy 3D rounded light node, gold colour, glowing core, centred icon, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_node_rose",
+      "type": "sprite",
+      "prompt": "One single glossy 3D rounded light node, rose colour, glowing core, centred icon, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_shard",
+      "type": "sprite",
+      "prompt": "One single translucent glass triangle fragment, violet to cyan gradient, glossy 3D render, centred icon, isolated on plain white, no other objects"
+    },
+    {
+      "name": "button_cta",
+      "type": "button",
+      "prompt": "Horizontal game CTA button background, violet to cyan aurora gradient, glossy, rounded, no text"
+    }
+  ]
+}
