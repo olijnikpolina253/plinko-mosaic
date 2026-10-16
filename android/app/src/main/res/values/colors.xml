@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches the LoaderScreen base so the native launch window is branded
+         rather than a flat white or pure black frame. -->
+    <color name="splash_bg">#070A18</color>
+</resources>

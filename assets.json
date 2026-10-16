@@ -1,0 +1,44 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D emblem of three glowing mosaic nodes forming a triangle, cyan gold and rose light, deep indigo radial gradient background, centered, crisp, no text"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, abstract deep indigo night sky with faint violet and cyan aurora light, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, luminous abstract mosaic of cyan gold and rose glass triangles on deep indigo, vibrant 3D render, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, soft blurred indigo gradient with very faint triangular facets, low contrast for UI overlay, no text, no UI elements"
+    },
+    {
+      "name": "sprite_mosaic_hero",
+      "type": "sprite",
+      "prompt": "One single abstract mosaic emblem of glowing triangular glass shards, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_node_glow",
+      "type": "sprite",
+      "prompt": "One single soft round light glow orb, bright white core fading outward, centered icon, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_shard_triangle",
+      "type": "sprite",
+      "prompt": "One single triangular glass shard, frosted translucent texture, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "button_cta",
+      "type": "button",
+      "prompt": "Horizontal game CTA button background, cyan to violet gradient, glossy, rounded, no text"
+    }
+  ]
+}
